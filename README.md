@@ -1,2 +1,2 @@
 # CRUD-PHP
-Easy example of CRUD
+This is a small project about CRUD in PHP
